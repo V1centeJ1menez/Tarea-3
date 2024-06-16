@@ -1,0 +1,9 @@
+AGREGAR 20202020-2 Javier Un_estudiante_de_derecho
+AGREGAR 21212121-1 Karen Una_estudiante_de_biologia
+AGREGAR 22222222-2 Luis Un_estudiante_de_fisica
+AGREGAR 23232323-3 Monica Una_estudiante_de_linguistica
+AGREGAR 24242424-4 Nicolas Un_estudiante_de_ingenieria
+ESTADISTICAS
+QUITAR 23232323-3
+QUITAR 20202020-2
+ESTADISTICAS

@@ -1,0 +1,7 @@
+AGREGAR 16161616-6 Fernanda Una_estudiante_de_arquitectura
+AGREGAR 17171717-7 Gustavo Un_estudiante_de_medicina
+AGREGAR 18181818-8 Helena Una_estudiante_de_psicologia
+AGREGAR 19191919-9 Ignacio Un_estudiante_de_periodismo
+ESTADISTICAS
+QUITAR 17171717-7
+ESTADISTICAS

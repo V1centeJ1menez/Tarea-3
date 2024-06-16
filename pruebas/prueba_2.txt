@@ -1,0 +1,8 @@
+AGREGAR 10101010-1 Alicia Una_estudiante_de_musica
+AGREGAR 11111111-1 Sofia Una_estudiante_de_matematicas
+AGREGAR 12121212-2 Bastian Un_estudiante_de_fisica
+ESTADISTICAS
+QUITAR 11111111-1
+ESTADISTICAS
+QUITAR 10101010-1
+ESTADISTICAS

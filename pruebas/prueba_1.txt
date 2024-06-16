@@ -1,0 +1,10 @@
+AGREGAR 99999999-9 Pablo Un_estudiante_de_historia
+AGREGAR 00000000-0 Laura Una_estudiante_de_arte
+AGREGAR 99999999-9 Roberto Un_estudiante_de_diseño
+OBTENER 99999999-9
+AGREGAR 12341234-2 Ana Un_estudiante_de_matematicas
+AGREGAR 12341234-2 Lucia Una_estudiante_de_biologia
+OBTENER 12341234-2
+ESTADISTICAS
+QUITAR 00000000-0
+ESTADISTICAS
