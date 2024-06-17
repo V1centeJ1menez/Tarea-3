@@ -1,12 +1,13 @@
 #include <iostream>
 #include <fstream>
-#include "registro_cuentas.hpp"
+#include "tda_registro_cuentas.hpp"
 
 using namespace std;
 
 int main() {
+
     registro_cuentas registro;
-    ifstream infile("./pruebas/prueba_6.txt");
+    ifstream infile("./pruebas/prueba_5.txt");
     string line, command;
 
     while (getline(infile, line)) {
