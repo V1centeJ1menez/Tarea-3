@@ -1,7 +1,6 @@
 # Tarea 3
 ***
-AMBIENTE DE EJECUCIÓN USADO
-***
+AMBIENTE DE EJECUCIÓN USADO:
 Sistema operativo: Linux Ubuntu 23.10
 Ejecución del codigo: Visuall Studio Code
 ***
