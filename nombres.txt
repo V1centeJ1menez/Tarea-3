@@ -1,0 +1,15 @@
+Vicente Jimenez
+ROL 202373523-K
+Paralelo 203
+
+- Implementacion de la clase registro_cuentas
+- Implementacion de métodos 
+- Creación de funciones principales
+
+
+Joaquin Aguilar
+ROL 202373630-9
+Paralelo 203
+
+- Comentarios de las funciones programadas y utilizadas.
+- Implementación de lectura de pruebas y main.cpp

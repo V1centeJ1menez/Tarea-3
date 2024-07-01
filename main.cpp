@@ -7,7 +7,7 @@ using namespace std;
 int main() {
 
     registro_cuentas registro;
-    ifstream infile("./pruebas/prueba_5.txt");
+    ifstream infile("./pruebas/prueba_6.txt");
     string line, command;
 
     while (getline(infile, line)) {

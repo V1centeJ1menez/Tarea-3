@@ -1,9 +1,5 @@
-AGREGAR 12341534-2 Lucia Una_estudiante_de_biologia
-AGREGAR 16161616-6 Fernanda Una_estudiante_de_arquitectura
-AGREGAR 17171717-7 Gustavo Un_estudiante_de_medicina
-AGREGAR 18181818-8 Helena Una_estudiante_de_psicologia
-AGREGAR 19191919-9 Ignacio Un_estudiante_de_periodismo
-AGREGAR 13131313-3 Carla Una_estudiante_de_literatura
-AGREGAR 14141414-4 Diego Un_estudiante_de_filosofia
-AGREGAR 15151515-5 Eduardo Un_estudiante_de_ingenieria
+AGREGAR 12341234-2 Lucia Una_estudiante_de_biologia
+OBTENER 12341234-2
+ESTADISTICAS
+QUITAR 12341234-2
 ESTADISTICAS
